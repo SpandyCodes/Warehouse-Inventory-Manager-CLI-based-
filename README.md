@@ -53,13 +53,5 @@ make clean
 
 ---
 
-## 🌐 Running in Browser
-To run this in the browser, you can:
-1. Use **replit.com** (C++ project, import all files)
-2. Use **WebAssembly (Emscripten)** to compile to `.wasm` and embed in a web frontend *(advanced)*
-3. Use **GitHub Codespaces** or **Gitpod** with browser-based Linux shell
-
----
-
 
 ## Created by **Spandan Jathar**
